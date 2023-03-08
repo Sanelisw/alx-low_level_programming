@@ -21,3 +21,10 @@ If n does not have a natural square root, the function should return -1
 Task 6:  Inception. Is it possible?
 Write a function that returns 1 if the input integer is a prime number, otherwise return 0.
 Prototype: int is_prime_number(int n);
+Task 7: They say we only use a fraction of our brain's true potential. Now that's when we're awake. When we're asleep, we can do almost anything
+Prototype: int is_palindrome(char *s);
+An empty string is a palindrome
+Task 8:  Inception. Now, before you bother telling me it's impossible...
+Prototype: int wildcmp(char *s1, char *s2);
+s2 can contain the special character *.
+The special char * can replace any string (including an empty string)
